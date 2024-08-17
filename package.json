@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "test": "jest",
     "lint": "expo lint",
-    "postinstall": "husky install",
+    "postinstall": "husky",
     "prepare": "husky"
   },
   "dependencies": {
