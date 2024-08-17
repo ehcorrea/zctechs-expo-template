@@ -1,6 +1,6 @@
-# Welcome to my Expo Template 👋
+# Welcome to zctechs Expo Template 👋
 
-This is an [Expo](https://expo.dev) temaplte created with:
+This is a template created for [Expo](https://expo.dev) mobile projects.
 
 ## Get started
 
@@ -23,24 +23,32 @@ This is an [Expo](https://expo.dev) temaplte created with:
 
 ## Libraries used
 
-When you're ready, run:
+dependencies
 
-```
- run reset-project
-```
+- [commitlint](https://docs.expo.dev/versions/latest/sdk/dev-client/)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- [nativewind](https://www.nativewind.dev/)
 
-## Learn more
+- [keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller)
 
-To learn more about developing your project with Expo, look at the following resources:
+- [styled-components](https://www.styled-components.com)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [zustand](https://zustand.docs.pmnd.rs/getting-started/introduction)
 
-## Join the community
+devDependencies
 
-Join our community of developers creating universal apps.
+- [@commitlint/cli](https://github.com/conventional-changelog/commitlint)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [commitizen](https://github.com/commitizen/cz-cli)
+
+- [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
+
+- [eslint](https://github.com/eslint/eslint)
+
+- [git-cz](https://github.com/streamich/git-cz)
+
+- [husky](https://github.com/typicode/husky)
+
+- [lint-staged](https://github.com/okonet/lint-staged)
+
+- [prettier](https://github.com/prettier/prettier)
