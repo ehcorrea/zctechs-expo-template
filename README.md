@@ -29,28 +29,30 @@ This is a template for mobile projects using [Expo](https://expo.dev), designed 
 1. Create a new project using this template:
 
 ```bash
- # Using yarn
- yarn create expo-app --template zctechs-expo-template
+  # Using yarn
+  yarn create expo-app --template zctechs-expo-template
 
- # Using npm
- npx create-expo-app@latest --template zctechs-expo-template
+  # Using npm
+  npx create-expo-app@latest --template zctechs-expo-template
 ```
 
 2. Install dependencies:
 
 ```bash
-# If using yarn, run the following to ensure the lockfile exists and install dependencies
-touch yarn.lock && yarn
+  # If using yarn, run the following to ensure the lockfile exists and install dependencies
+  touch yarn.lock && yarn
 
-# Or, if using npm
-npm install
+  # Or, if using npm
+  npm install
 ```
 
 3. Start the project:
 
 ```bash
   yarn start
+
   # or
+
   npm start
 ```
 
