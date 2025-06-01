@@ -31,8 +31,6 @@ dependencies
 
 - [keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller)
 
-- [styled-components](https://www.styled-components.com)
-
 - [zustand](https://zustand.docs.pmnd.rs/getting-started/introduction)
 
 devDependencies
